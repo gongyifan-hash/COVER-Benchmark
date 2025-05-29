@@ -41,8 +41,6 @@ Our benchmark includes approximately **2,800 videos**, which are paired with aro
 
 ## 🔍 Dataset
 
-**[Download](https://drive.google.com/drive/folders/1YK_aQmP9EJL8Ldaf5aWmVTrUPJIhB-uz?usp=sharing)**
-
 **License**:
 ```
 COVER is only used for academic research. Commercial use in any form is prohibited.
