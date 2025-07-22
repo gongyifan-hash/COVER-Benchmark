@@ -41,7 +41,6 @@ Our benchmark includes approximately **2,800 videos**, which are paired with aro
 
 ## 🔍 Dataset
 
-Download COVER data [here](https://drive.google.com/drive/folders/1YK_aQmP9EJL8Ldaf5aWmVTrUPJIhB-uz?usp=sharing)
 
 **License**:
 ```
@@ -51,8 +50,7 @@ If there is any infringement in COVER, please email zhouqiji@westlake.edu.cn and
 Without prior approval, you cannot distribute, publish, copy, disseminate, or modify COVER in whole or in part. 
 You must strictly comply with the above restrictions.
 ```
-
-
+Please send an email to **zhouqiji@westlake.edu.cn**. 🌟
 
 ## 📈 Experimental Results
 - **General assessment results of COVER.**
