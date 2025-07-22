@@ -51,7 +51,6 @@ If there is any infringement in COVER, please email zhouqiji@westlake.edu.cn and
 Without prior approval, you cannot distribute, publish, copy, disseminate, or modify COVER in whole or in part. 
 You must strictly comply with the above restrictions.
 ```
-Please send an email to **zhouqiji@westlake.edu.cn**. 🌟
 
 ## 📈 Experimental Results
 - **General assessment results of COVER.**
