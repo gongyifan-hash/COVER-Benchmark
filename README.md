@@ -41,6 +41,7 @@ Our benchmark includes approximately **2,800 videos**, which are paired with aro
 
 ## 🔍 Dataset
 
+Download COVER data [here](https://huggingface.co/datasets/PeterPanonly/COVER)
 
 **License**:
 ```
